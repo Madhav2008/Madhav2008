@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hey! I'm Madhav Arora 🙌
+### I am a Full Stack Developer, Programmer, Coder, Tech enthusiast
+- 👨‍🎓 I’m a Full Stack Web and Android Developer.
+- 📚 I'm in 8th Standard and studying in Lovely Public Sr. Sec. School.
+- 💡 I’m currently learning Flutter and working on Android Applications.
+- 💞️ I’m looking to collaborate for learning and making new projects.
+- 💬 **Ask me** about Flutter, React Native, Javascript or anything related to latest tech.
+- 🔥 Open to opportunities.
+- 😄 **Pronouns**: He/His
+ 
+<h2 dir="auto"><a id="user-content--skills--" class="anchor" aria-hidden="true" href="#-skills--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Skills <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="32px" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%;"></a> </h2>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=dart&sort="> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=dart&sort="> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=dart&sort="> <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=python&sort="> <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=jupyter+notebook&sort="> <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=javascript&sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=javascript&sort="> <img width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=css&sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=html&sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=javascript&sort="> <img width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" style="max-width: 100%;"> </a>
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=javascript&sort="> <img width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" style="max-width: 100%;"> </a>
 
-<!--
-**Madhav2008/Madhav2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 dir="auto"><a id="user-content--skills--" class="anchor" aria-hidden="true" href="#-skills--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me : <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="32px" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%;"></a> </h2>
+<a href="mailto:aroramadhav65@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/madhav-arora-9685031b7/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+ <a href="" target="_blank"><img src="https://camo.githubusercontent.com/1ba33f104464b0da9aba4302cd6e59059c0a882e90b815e7d75a39d70aca38f6/68747470733a2f2f7777772e706e676b69742e636f6d2f706e672f66756c6c2f3130342d313034393338385f776f726c642d776964652d7765622d6c6f676f2d766563746f722d7472616e73706172656e742d6261636b67726f756e642d776562736974652e706e67" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+ 
