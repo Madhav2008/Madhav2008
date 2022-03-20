@@ -29,7 +29,7 @@
  <a href="https://www.linkedin.com/in/madhav-arora-9685031b7/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
  <a href="" target="_blank"><img src="https://camo.githubusercontent.com/1ba33f104464b0da9aba4302cd6e59059c0a882e90b815e7d75a39d70aca38f6/68747470733a2f2f7777772e706e676b69742e636f6d2f706e672f66756c6c2f3130342d313034393338385f776f726c642d776964652d7765622d6c6f676f2d766563746f722d7472616e73706172656e742d6261636b67726f756e642d776562736974652e706e67" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
  
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav2008&show_icons=true&locale=en" alt="madhav2008" /></p>
  
 <!--  <h1 align="center">Hi 👋, I'm Madhav Arora</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
