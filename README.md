@@ -1,4 +1,4 @@
-## Hey! I'm Madhav Arora 🙌
+<!-- ## Hey! I'm Madhav Arora 🙌
 ### I am a Full Stack Developer, Programmer, Coder, Tech enthusiast
 - 👨‍🎓 I’m a Full Stack Web and Android Developer.
 - 📚 I'm in 8th Standard and studying in Lovely Public Sr. Sec. School.
@@ -24,19 +24,19 @@
  <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=javascript&sort="> <img width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=javascript&sort="> <img width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" style="max-width: 100%;"> </a>
 
-<h2 dir="auto"><a id="user-content--skills--" class="anchor" aria-hidden="true" href="#-skills--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me : <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="32px" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%;"></a> </h2>
+<h2 dir="auto"><a id="user-content--skills--" class="anchor" aria-hidden="true" href="#-skills--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me : <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d65 6366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="32px" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%;"></a> </h2>
 <a href="mailto:aroramadhav65@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/madhav-arora-9685031b7/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
  <a href="" target="_blank"><img src="https://camo.githubusercontent.com/1ba33f104464b0da9aba4302cd6e59059c0a882e90b815e7d75a39d70aca38f6/68747470733a2f2f7777772e706e676b69742e636f6d2f706e672f66756c6c2f3130342d313034393338385f776f726c642d776964652d7765622d6c6f676f2d766563746f722d7472616e73706172656e742d6261636b67726f756e642d776562736974652e706e67" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav2008&show_icons=true&locale=en" alt="madhav2008" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav2008&show_icons=true&locale=en" alt="madhav2008" /></p> -->
  
-<!--  <h1 align="center">Hi 👋, I'm Madhav Arora</h1>
+ <h1 align="center">Hi 👋, I'm Madhav Arora</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav2008&label=Profile%20views&color=0e75b6&style=flat" alt="madhav2008" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav2008&label=Profile%20views&color=0e75b6&style=flat" alt="madhav2008" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav2008" alt="madhav2008" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav2008" alt="madhav2008" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -48,22 +48,22 @@
 
 - 🤝 I’m looking for help with **Flutter applications.**
 
-- 👨‍💻 All of my projects are available at [https://madhav2008.github.io/Madhav-Arora-s-Portfolio](https://madhav2008.github.io/Madhav-Arora-s-Portfolio)
+- 👨‍💻 All of my projects are available on [My Github Profile.](https://github.com/Madhav2008?tab=repositories)
 
-- 📝 I regularly write articles on [https://madhav2008.github.io/Madhav-Arora-s-Portfolio](https://madhav2008.github.io/Madhav-Arora-s-Portfolio)
+- 📝 I regularly write articles on [My Github.](https://github.com/Madhav2008)
 
 - 💬 Ask me about **Flutter, React Native, Javascript or anything related to latest tech.**
 
 - 📫 How to reach me **aroramadhav65@gmail.com**
 
-- 📄 Know about my experiences [https://madhav2008.github.io/Madhav-Arora-s-Portfolio](https://madhav2008.github.io/Madhav-Arora-s-Portfolio)
+- 📄 Know about my experiences at [My Portfolio](https://madhav2008.github.io/Madhav-Arora-s-Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/madhav2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="madhav2008" height="30" width="40" /></a>
+<a href="mailto:aroramadhav65@gmail.com" target="blank"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" alt="aroramadhav65@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhav-arora-9685031b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-arora-9685031b7" height="30" width="40" /></a>
-<a href="https://kaggle.com/madhavarora65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="madhavarora65" height="30" width="40" /></a>
-<a href="https://dribbble.com/arora09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arora09" height="30" width="40" /></a>
+<a href="https://github.com/Madhav2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="Madhav2008" height="40" width="50" /></a>
+<!-- <a href="https://dribbble.com/arora09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arora09" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -74,4 +74,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav2008&show_icons=true&locale=en" alt="madhav2008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav2008&" alt="madhav2008" /></p>
- -->
+
