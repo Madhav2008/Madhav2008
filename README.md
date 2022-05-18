@@ -74,4 +74,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav2008&show_icons=true&locale=en" alt="madhav2008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav2008&" alt="madhav2008" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav2008&show_icons=true&locale=en" alt="madhav2008" /></p>
