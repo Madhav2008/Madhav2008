@@ -1,5 +1,5 @@
 <!-- ## Hey! I'm Madhav Arora 🙌
-### I am a Full Stack Developer, Programmer, Coder, Tech enthusiast 
+### I am a Full Stack Developer, Programmer, Coder, Tech enthusiast
 - 👨‍🎓 I’m a Full Stack Web and Android Developer.
 - 📚 I'm in 8th Standard and studying in Lovely Public Sr. Sec. School.
 - 💡 I’m currently learning Flutter and working on Android Applications.
