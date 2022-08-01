@@ -60,7 +60,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="mailto:aroramadhav65@gmail.com" target="blank"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" alt="aroramadhav65@gmail.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhav-arora-9685031b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-arora-9685031b7" height="30" width="40" /></a>
 <a href="https://github.com/Madhav2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="Madhav2008" height="40" width="50" /></a>
 <!-- <a href="https://dribbble.com/arora09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arora09" height="30" width="40" /></a> -->
