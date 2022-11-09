@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhav2008&theme=minimal" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhav2008&theme=vue" />
 </p>
 
 <img align="left" alt="Madhav Arora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhav2008&show_icons=true&hide_border=true&&count_private=trueinclude_all_commits=true" />
