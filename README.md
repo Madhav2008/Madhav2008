@@ -29,7 +29,7 @@
  
  <a href="mailto:aroramadhav65@gmail.com" target="blank"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" alt="aroramadhav65@gmail.com" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/madhav-arora-9685031b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-arora-9685031b7" height="30" width="40" /></a>
- <a href="https://github.com/Madhav2008" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Madhav2008" height="40" width="50" /></a>
+ <a href="https://github.com/Madhav2008" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" alt="Madhav2008" height="40" width="50" /></a>
  
 </p>
 
@@ -84,11 +84,13 @@
 <p>
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav2008&theme=minimal" alt="madhav2008" />
 </p>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav2008&label=Profile%20views&color=0e75b6&style=flat" alt="madhav2008" /> </p>
 
 ## 🏆 GitHub Profile Trophies
 
 <p align="left"> 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav2008" alt="madhav2008" /></a>
 </p>
+
+## ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
