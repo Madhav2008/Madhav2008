@@ -85,6 +85,8 @@
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav2008&theme=minimal" alt="madhav2008" />
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=madhav2008&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Profile Trophies
 
 <p align="left"> 
