@@ -29,6 +29,8 @@
  <a href="https://github.com/Madhav2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="Madhav2008" height="40" width="50" /></a>
 </p>
 
+<!-- Languages and Tools -->
+
 <h3 align="left">Languages and Tools:</h3>
 
 <a target="_blank">
