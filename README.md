@@ -73,7 +73,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhav2008&show_icons=true&locale=en&layout=compact" alt="madhav2008" /></p> -->
 
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=madhav2008&theme=minimal"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=madhav2008&theme=minimal"/>
 </p>
 
 <p align="center">
