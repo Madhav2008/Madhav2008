@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav Arora</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left">
- <a href="https://twitter.com/" target="blank">
-  <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/>
- </a>
-</p>
-
 - 🔭 I’m currently working on **Flutter Android and IOS app devlopment.**
 
 - 🌱 I’m currently learning **Flutter and working on Android Applications.**
@@ -25,7 +19,10 @@
 
 - 📄 Know about my experiences at [My Portfolio](https://madhav2008.github.io/Madhav-Arora-s-Portfolio)
 
+<!-- Connect with me -->
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
  <a href="mailto:aroramadhav65@gmail.com" target="blank"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" alt="aroramadhav65@gmail.com" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/madhav-arora-9685031b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-arora-9685031b7" height="30" width="40" /></a>
