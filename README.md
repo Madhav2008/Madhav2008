@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Madhav Arora</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav2008&label=Views&color=blue&style=plastic&style=for-the-badge" alt="madhav2008" /> </p>
+
 - 🔭 I’m currently working on **Flutter Android and IOS app devlopment.**
 
 - 🌱 I’m currently learning **Flutter and working on Android Applications.**
@@ -27,7 +29,7 @@
  
  <a href="mailto:aroramadhav65@gmail.com" target="blank"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" alt="aroramadhav65@gmail.com" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/madhav-arora-9685031b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-arora-9685031b7" height="30" width="40" /></a>
- <a href="https://github.com/Madhav2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="Madhav2008" height="40" width="50" /></a>
+ <a href="https://github.com/Madhav2008" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Madhav2008" height="40" width="50" /></a>
  
 </p>
 
@@ -83,7 +85,7 @@
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav2008&theme=minimal" alt="madhav2008" />
 </p>
  
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav2008&label=Profile%20views&color=0e75b6&style=flat" alt="madhav2008" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav2008&label=Profile%20views&color=0e75b6&style=flat" alt="madhav2008" /> </p>
 
 ## 🏆 GitHub Profile Trophies
 
