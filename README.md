@@ -98,5 +98,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 <div align="center">
- ## Show some ❤️ by starring some of the repositories!
+ 
+### Show some ❤️ by starring some of the repositories!
+
 </div>
