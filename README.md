@@ -80,6 +80,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhav2008&theme=vue" />
 </p>
 
+## 📟 GitHub Stats
+
 <img align="left" alt="Madhav Arora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhav2008&show_icons=true&hide_border=true&&count_private=trueinclude_all_commits=true" />
 
 <!-- &title_color=bddfff&bg_color=1a1b27&text_color=ffffff -->
