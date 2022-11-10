@@ -88,8 +88,6 @@
 
 <img align="left" alt="Madhav Arora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=madhav2008&show_icons=true&hide_border=true&&count_private=trueinclude_all_commits=true" />
 
-<!-- &title_color=bddfff&bg_color=1a1b27&text_color=ffffff -->
-
 <!-- &show_icons=true&hide_border=true&title_color=bddfff&bg_color=1a1b27&text_color=ffffff&count_private=true&include_all_commits=true -->
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav2008&theme=minimal" alt="madhav2008" /></p>
