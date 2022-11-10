@@ -85,12 +85,10 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=madhav2008&theme=minimal" alt="madhav2008" />
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=madhav2008&icon=0&color=1)](https://visitcount.itsvg.in)
-
 ## 🏆 GitHub Profile Trophies
 
 <p align="left"> 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav2008&margin-w=15&margin-h=15" alt="madhav2008" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav2008&margin-w=15&margin-h=15&column=3" alt="madhav2008" /></a>
 </p>
 
 ## ✍️Random Dev Quote
@@ -99,7 +97,8 @@
 
 <div align="center">
  
+[![](https://visitcount.itsvg.in/api?id=madhav2008&icon=0&color=1)](https://visitcount.itsvg.in)
+ 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
- 
