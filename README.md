@@ -52,7 +52,7 @@
  <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=css&sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=html&sort="> <img width="50px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="max-width: 100%;"> </a>
  <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=javascript&sort="> <img width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" style="max-width: 100%;"> </a>
- <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=javascript&sort="> <img width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" style="max-width: 100%;">
+ <a href="https://github.com/Madhav2008?tab=repositories&q=&type=&language=javascript&sort="> <img width="50px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" style="max-width: 100%;">
 
 </a>
 
