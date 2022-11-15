@@ -88,7 +88,7 @@
 ## 🏆 GitHub Profile Trophies
 
 <p align="left"> 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav2008&margin-w=15&margin-h=15&column=3" alt="madhav2008" /></a>
+ <a><img src="https://github-profile-trophy.vercel.app/?username=madhav2008&margin-w=15&margin-h=15&column=3" alt="madhav2008" /></a>
 </p>
 
 ## ✍️Random Dev Quote
