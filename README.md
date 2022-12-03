@@ -63,11 +63,11 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madhav2008&show_icons=true&locale=en" alt="madhav2008"/></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhav2008&show_icons=true&locale=en&layout=compact" alt="madhav2008" /></p> -->
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=madhav2008&theme=minimal" />
-</p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=madhav2008" />
+</p> -->
 
 ## 💳 Github Profile Summary Card
 
