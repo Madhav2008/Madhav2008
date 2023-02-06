@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav2008&label=Views&color=blue&style=plastic&style=for-the-badge" alt="madhav2008" /> </p>
 
-- 🔭 I’m currently working on **Flutter Android and IOS app devlopment.**
+- 🔭 I’m currently working on **Flutter Android and IOS app development.**
 
 - 🌱 I’m currently learning **Flutter and working on Android Applications.**
 
