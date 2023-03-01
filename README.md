@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aroramadhav65@gmail.com**
 
-- 📄 Know about my experiences at [My Portfolio](https://madhav2008.github.io/Madhav-Arora-s-Portfolio)
+- 📄 Know about my experiences at [My Portfolio](https://madhav2008.github.io/Madhav-Portfolio/)
 
 <!-- Connect with me -->
 
